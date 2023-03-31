@@ -1,2 +1,2 @@
-### This is an example file for test git
-Make some change
+### This is an example file for testing git
+Make some changecd
